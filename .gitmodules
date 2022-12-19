@@ -1,0 +1,3 @@
+[submodule "hello-wasmcloud"]
+	path = hello-wasmcloud
+	url = ./hello-wasmcloud
